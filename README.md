@@ -39,12 +39,12 @@ Grant the permission to allow the app to fetch weather data for your current loc
 ### Dependencies
 The Weather App utilizes the following dependencies:
 
-# React
-# React Native
-# Expo
-# React Navigation
-# Expo Location
-# Axios
+ **React 
+  React Native
+  Expo
+  React Navigation 
+  Expo Location 
+  Axios**
 
 ## License
 This project is licensed under the MIT License. Feel free to modify and distribute it as per your needs.
